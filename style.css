@@ -1,0 +1,21 @@
+body {
+  background-color: linen;
+    display: flex;
+}
+
+ul{
+  background-color: lightblue;
+  padding: 0px 20px 0px 40px
+}
+
+li {
+  line-height: 2.5em
+}
+
+div{
+  margin-left: 20px
+}
+
+button {
+  font-size: 100%;
+}
